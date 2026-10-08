@@ -1,9 +1,7 @@
 # 백주은 · Jueun Baek
 
-> 실서비스 기획부터 개발·배포·운영까지 경험한 풀스택 개발자
-
-📧 jueun09252@naver.com
-
+> 📧 jueun09252@naver.com
+> 📱 010-4846-1609
 ---
 
 ## 🛠 Skills
