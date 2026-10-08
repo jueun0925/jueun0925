@@ -1,7 +1,6 @@
 # 백주은 · Jueun Baek
 
 > 📧 jueun09252@naver.com
-> 📱 010-4846-1609
 ---
 
 ## 🛠 Skills
